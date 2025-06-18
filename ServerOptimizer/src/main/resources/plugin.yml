@@ -1,0 +1,7 @@
+name: ServerOptimizer
+version: 1.0
+main: me.shhalex.server.ServerOptimizer
+api-version: 1.21 # Важно указать правильную версию API
+authors: [ shhalex ]
+description: Данный плагин создан исключительно для сервер Requiem.
+website: https://vk.com/notshhalex
